@@ -21,3 +21,5 @@
     <ul>
         <li><code>git init</code>: Inicializa un nuevo repositorio Git en la carpeta actual.</li>
         <li><code>git status</code>: Muestra el estado actual del repositorio, incluyendo los archivos modificados y los archivos que no están siendo rastreados.</li>
+    </ul>
+</body>
